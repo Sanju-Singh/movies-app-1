@@ -12,6 +12,7 @@ Include the unique key for the build by adding the following line to gradle.prop
 
 MyTheMovieDBAPIKey="\<UNIQUE_API_KEY\>"
 
+<a href="https://www.fitmephysio.com/">Online Physiotherapy</a>
 
 <h2>Copyright</h2>
 
